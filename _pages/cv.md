@@ -11,35 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* P.L.D., Harvard Business School, 2019  
+* B.B.A., George Washington University, 2013  
 
-Work experience
+Professional Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Director & Advisor — Renewable Energy / Infrastructure**  
+  *PowerChina (selected projects)*  
+  * Focus on renewable energy development, infrastructure finance, and capital structuring  
+  * Advisory on governance, risk allocation, and long-horizon institutional capital deployment  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Board Member & Chair, Investment Committee**  
+  *TEDCO (Maryland Technology Development Corporation)*  
+  * Oversight of venture and growth-stage investment programs  
+  * Governance of public-purpose capital, investment policy, and portfolio construction  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Institutional Investing & Advisory Roles**  
+  *Selected endowment, venture, and investment advisory platforms*  
+  * Asset allocation and manager selection across public and private markets  
+  * Venture and growth equity investing  
+  * Strategic advisory on capital allocation and governance  
+
+---
+
+Research Interests
+======
+* Institutional asset allocation and portfolio construction  
+* Governance, fiduciary duty, and board decision-making  
+* Infrastructure and energy finance  
+* Real-world asset (RWA) tokenization and digital market infrastructure  
+
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -62,3 +64,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+[Download CV (PDF)](/files/Chung_Hei_Sing_CV.pdf)
