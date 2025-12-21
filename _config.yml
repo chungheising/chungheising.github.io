@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "chsprofilepic.jpg"
   name             : "Chung Hei Sing"
   pronouns         : # example: "he/him/his"  
   bio              : "I work at the intersection of institutional capital allocation, governance, and financial infrastructure, with a focus on real-world assets and long-term investment decision-making."
