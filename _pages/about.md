@@ -17,9 +17,10 @@ My work spans institutional investing and governance roles across multiple asset
 ## Current research direction
 
 My current research agenda focuses on:
+
 1) **RWA tokenization & digital market infrastructure** (governance, trust, verification, and institutional implementation)  
-2) **infrastructure & energy finance** (risk allocation and long-horizon deployment)  
-3) **fiduciary governance and decision systems** (boards, ICs, and institutional design)
+2) **Infrastructure & energy finance** (risk allocation and long-horizon deployment)  
+3) **Fiduciary governance and decision systems** (boards, ICs, and institutional design)
 
 For a structured overview of my work, see **Research & Publications**.
 
