@@ -1,8 +1,10 @@
-
 ---
+title: ""
+permalink: /
 layout: single
 author_profile: true
 ---
+
 
 # Applied research on institutional investing, governance, and real-world asset infrastructure.
 
