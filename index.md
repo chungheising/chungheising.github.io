@@ -41,6 +41,6 @@ I engage selectively on:
 - **board / investment committee decision frameworks**
 - **startup / fund strategy at the intersection of finance and infrastructure**
 
-If you’d like to discuss research collaboration or advisory work, the fastest way to reach me is via email or LinkedIn (sidebar).
+If you’d like to discuss research collaboration or advisory work, the fastest way to reach me is via LinkedIn (sidebar).
 
 ---
