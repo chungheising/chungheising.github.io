@@ -41,28 +41,13 @@ Research Interests
 * Infrastructure and energy finance  
 * Real-world asset (RWA) tokenization and digital market infrastructure  
 
-  
 
-Publications
+Service & Leadership
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Board and investment committee service in public-purpose and venture-oriented organizations  
+* Advisory roles supporting institutional governance, capital allocation, and infrastructure development  
+* Conference and academic speaker-series organization
+
+Selected publications, talks, and teaching activities are listed on their respective pages.
 
 [Download CV (PDF)](/files/Chung_Hei_Sing_CV.pdf)
