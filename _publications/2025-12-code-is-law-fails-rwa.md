@@ -19,4 +19,4 @@ This paper examines why the principle of “code is law,” while effective in d
 **Recommended citation:**  
 Sing, C. H. (2025). *Why “Code Is Law” Fails for Real-World Assets: Governance Gaps in Tokenized Markets.* Working paper.
 
-[Download Paper (PDF)](/files/papers/Sing_CodeIsLawFails_RWA_GovernanceGaps_2025.pdf)
+[Download Paper (PDF)](/files/Sing_2024_Test.pdf)
