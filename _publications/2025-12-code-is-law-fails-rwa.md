@@ -16,7 +16,3 @@ citation: "Sing, C. H. (2025). Why “Code Is Law” Fails for Real-World Assets
 
 This paper examines why the principle of “code is law,” while effective in digital-native environments, fails when applied to real-world assets. It argues that the primary barrier to institutional adoption of tokenized RWAs is not technological maturity, but a structural mismatch between on-chain execution and off-chain governance, legal authority, and fiduciary responsibility. The paper reframes tokenization as an institutional design challenge rather than a software problem, with implications for policymakers, regulators, and institutional investors.
 
-**Recommended citation:**  
-Sing, C. H. (2025). *Why “Code Is Law” Fails for Real-World Assets: Governance Gaps in Tokenized Markets.* Working paper.
-
-[Download Paper (PDF)](/files/Sing_2025_Why_Code_is_Law_Fails_for_Real_World_Assets v3.pdf)
