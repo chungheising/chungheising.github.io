@@ -8,7 +8,7 @@ venue: "Working Paper"
 paper_date: "2025"
 category: tokenization
 excerpt: "Why the principle of “code is law” breaks down for real-world assets—and why institutional tokenization is fundamentally a governance and fiduciary design challenge."
-paperurl: /files/Sing_2024_Test.pdf
+paperurl: /files/Sing_2025_Why_Code_is_Law_Fails_for_Real_World_Assets v3.pdf
 citation: "Sing, C. H. (2025). Why “Code Is Law” Fails for Real-World Assets: Governance Gaps in Tokenized Markets. Working paper."
 ---
 
@@ -19,4 +19,4 @@ This paper examines why the principle of “code is law,” while effective in d
 **Recommended citation:**  
 Sing, C. H. (2025). *Why “Code Is Law” Fails for Real-World Assets: Governance Gaps in Tokenized Markets.* Working paper.
 
-[Download Paper (PDF)](/files/Sing_2024_Test.pdf)
+[Download Paper (PDF)](/files/Sing_2025_Why_Code_is_Law_Fails_for_Real_World_Assets v3.pdf)
