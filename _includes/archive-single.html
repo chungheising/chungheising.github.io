@@ -34,6 +34,9 @@
       {% endif %}
     </h2>
 
+{% unless page.url == '/publications/' %}
+
+    
     {% if post.collection == 'publications' %}
   {% comment %} Titles only for publications index pages {% comment %}
 {% else %}
@@ -94,7 +97,7 @@
   {% endif %}
 
 {% endif %}
-
+{% endunless %}
 
   </article>
 </div>
