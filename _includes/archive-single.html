@@ -34,13 +34,15 @@
       {% endif %}
     </h2>
 
-{% unless page.url == '/publications/' %}
+
 
     
     {% if post.collection == 'publications' %}
   {% comment %} Titles only for publications index pages {% comment %}
 {% else %}
 
+{% unless page.url == '/publications/' %}
+    
   {% if post.subtitle %}
     <p class="archive__item-subtitle">{{ post.subtitle }}</p>
   {% endif %}
