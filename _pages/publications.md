@@ -14,7 +14,7 @@ This section examines capital allocation across public and private asset classes
 
 {% assign pubs = site.publications | where: "category", "capital_allocation" | sort: "date" | reverse %}
 {% for post in pubs %}
-  {% include archive-single.html %}
+  {% include archive-single.html titles_only=true %}
 {% endfor %}
 
 ## Governance, Boards & Fiduciary Design
@@ -22,7 +22,7 @@ This work focuses on governance and fiduciary design at the board and institutio
 
 {% assign pubs = site.publications | where: "category", "governance" | sort: "date" | reverse %}
 {% for post in pubs %}
-  {% include archive-single.html %}
+  {% include archive-single.html titles_only=true %}
 {% endfor %}
 
 ## Entrepreneurship & Institutional Scaling
@@ -30,7 +30,7 @@ This section examines entrepreneurship and organizational scaling through an ins
 
 {% assign pubs = site.publications | where: "category", "entrepreneurship" | sort: "date" | reverse %}
 {% for post in pubs %}
-  {% include archive-single.html %}
+  {% include archive-single.html titles_only=true %}
 {% endfor %}
 
 ## Tokenization & Digital Market Infrastructure
@@ -38,7 +38,7 @@ This body of work examines tokenization and digital market infrastructure for re
 
 {% assign pubs = site.publications | where: "category", "tokenization" | sort: "date" | reverse %}
 {% for post in pubs %}
-  {% include archive-single.html %}
+  {% include archive-single.html titles_only=true %}
 {% endfor %}
 
 ## Case Notes & Applied Experience
@@ -46,5 +46,5 @@ The notes below reflect applied experience across institutional investing, gover
 
 {% assign pubs = site.publications | where: "category", "case_notes" | sort: "date" | reverse %}
 {% for post in pubs %}
-  {% include archive-single.html %}
+  {% include archive-single.html titles_only=true %}
 {% endfor %}
