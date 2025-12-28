@@ -16,5 +16,3 @@ citation: "Sing, C. H. (2025). The RWA Tokenization Stack: Technology, Governanc
 
 This paper maps the real-world asset (RWA) tokenization stack end-to-end, separating what is fundamentally a technology layer from what is irreducibly a governance, legal, and institutional layer. It explains where tokenization projects commonly fail when moving from pilots to institutional scale, and proposes a practical framework for identifying constraints across custody, compliance, legal enforceability, operating controls, risk ownership, and dispute resolution.
 
-**Recommended citation:**  
-Sing, C. H. (2025). *The RWA Tokenization Stack: Technology, Governance, and Institutional Constraints.* Working paper.
