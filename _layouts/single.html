@@ -53,9 +53,7 @@ layout: default
 
 {% elsif page.collection == 'publications' %}
   {%- comment -%} Avoid duplicative “Published in …” line for working papers {%- endcomment -%}
-  {%- if page.paper_date -%}
-    <p class="page__meta">{{ page.venue }} · {{ page.paper_date }}</p>
-  {%- endif -%}
+
 
 {% elsif page.venue and page.date %}
   <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
