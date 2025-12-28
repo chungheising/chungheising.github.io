@@ -31,3 +31,22 @@
   border-bottom: 1px solid #eee;
   padding-bottom: 0.25em;
 }
+
+/* Publications archive headings (works on /publications/) */
+.archive h2 {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 0.25em;
+  margin-top: 1.8em;
+}
+
+/* Demote the "Themes" heading */
+.archive h2:first-of-type {
+  font-size: 1.05rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #666;
+  border-bottom: none;   /* no divider under Themes */
+  padding-bottom: 0;
+  margin-bottom: 0.6em;
+}
