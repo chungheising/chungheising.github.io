@@ -29,11 +29,9 @@ This work focuses on governance and fiduciary design at the board and institutio
 This section examines entrepreneurship and organizational scaling through an institutional lens, focusing on governance, capital structure, and credibility as organizations grow.
 
 {% assign pubs = site.publications | where: "category", "entrepreneurship" | sort: "date" | reverse %}
-
 {% for post in pubs %}
   {% include archive-single.html titles_only=true %}
 {% endfor %}
-
 
 ## Tokenization & Digital Market Infrastructure
 This body of work examines tokenization and digital market infrastructure for real-world assets, focusing on governance, legal structure, and institutional implementation rather than technology alone.
@@ -48,8 +46,5 @@ The notes below reflect applied experience across institutional investing, gover
 
 {% assign pubs = site.publications | where: "category", "case_notes" | sort: "date" | reverse %}
 {% for post in pubs %}
-
-{% for post in pubs %}
   {% include archive-single.html titles_only=true %}
 {% endfor %}
-
