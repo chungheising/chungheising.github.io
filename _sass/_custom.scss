@@ -79,3 +79,10 @@
   line-height: 1.35;
   margin: 0.25em 0 0.35em 0;
 }
+
+/* Publications: use title case, not ALL CAPS */
+.archive__item-title,
+.archive__item-title a {
+  text-transform: none;
+  letter-spacing: normal;
+}
