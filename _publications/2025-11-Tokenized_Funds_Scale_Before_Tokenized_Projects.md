@@ -2,13 +2,13 @@
 title: "Why Tokenized Funds Will Scale Before Tokenized Projects"
 subtitle: "Institutional Adoption Pathways in Real-World Asset Tokenization"
 collection: publications
-permalink: /publication/why-tokenized-funds-scale-before-projects/
+permalink: /publication/Sing_2025_Why_Tokenized_Funds_Will_Scale_Before_Tokenized_Projects_v2/
 date: 2025-11-13
 venue: "Working Paper"
 paper_date: "2025"
 category: tokenization
 excerpt: "Why fund-level tokenization is likely to achieve institutional scale before project-level tokenization—and what this implies for governance, distribution, and compliance design."
-paperurl: /files/Why_Tokenized_Funds_Will_Scale_Before_Tokenized_Projects.pdf
+paperurl: /files/Sing_2025_Why_Tokenized_Funds_Will_Scale_Before_Tokenized_Projects_v2.pdf
 citation: "Sing, C. H. (2025). Why Tokenized Funds Will Scale Before Tokenized Projects: Institutional Adoption Pathways in Real-World Asset Tokenization. Working paper."
 ---
 
