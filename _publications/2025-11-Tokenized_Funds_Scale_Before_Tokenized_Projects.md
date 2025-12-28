@@ -2,7 +2,7 @@
 title: "Why Tokenized Funds Will Scale Before Tokenized Projects"
 subtitle: "Institutional Adoption Pathways in Real-World Asset Tokenization"
 collection: publications
-permalink: /publication/tokenized-Funds-Scale-Before-Tokenized-Projects/
+permalink: /publication/tokenized-funds-scale-before-tokenized-projects/
 date: 2025-11-13
 venue: "Working Paper"
 paper_date: "2025"
