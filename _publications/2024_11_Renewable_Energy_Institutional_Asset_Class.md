@@ -3,7 +3,7 @@ title: "Renewable Energy as an Institutional Asset Class"
 subtitle: "Capital Structure, Policy Risk, and Long-Duration Governance"
 collection: publications
 permalink: /publication/renewable-energy-institutional-asset-class/
-date: 2025-12-30
+date: 2024-11-20
 venue: "Working Paper"
 paper_date: "November 2024"
 category: infrastructure
