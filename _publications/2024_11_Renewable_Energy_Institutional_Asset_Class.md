@@ -6,7 +6,7 @@ permalink: /publication/renewable-energy-institutional-asset-class/
 date: 2024-11-20
 venue: "Working Paper"
 paper_date: "November 2024"
-category: infrastructure
+category: capital_allocation
 excerpt: "Reframes renewable energy infrastructure as a governance-intensive institutional asset class, emphasizing capital structure, policy risk, and long-duration fiduciary design over multi-decade lifecycles."
 paperurl: /files/Sing_2025_Renewable_Energy_as_an_Institutional_Asset_Class_v5.pdf
 citation: "Sing, C. H. (2025). Renewable Energy as an Institutional Asset Class: Capital Structure, Policy Risk, and Long-Duration Governance. Working paper."
