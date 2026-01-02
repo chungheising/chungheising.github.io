@@ -32,12 +32,6 @@ Renewable energy infrastructure has undergone a structural transformation in how
 
 ---
 
-### Suggested Citation
-
-{{ page.citation }}
-
----
-
 ### Keywords
 
 Renewable energy; infrastructure; institutional investors; policy risk; project finance; governance; fiduciary design
