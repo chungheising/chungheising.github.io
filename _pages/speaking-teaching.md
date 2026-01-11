@@ -5,7 +5,7 @@ permalink: /speaking-teaching/
 author_profile: true
 ---
 
-This page lists selected teaching, speaking, and academic programming. My primary work is published under **[Research & Publications](/publications/)**.
+This page lists selected teaching, speaking, and academic programming. My primary work is published under **[Publications](/publications/)**.
 
 ## Teaching & academic engagement (selected)
 
