@@ -10,8 +10,12 @@
 main:
   - title: "About"
     url: /about/  
+
+  - title: "Research"
+    url: /research/  
   
-  - title: "Research & Publications"
+  
+  - title: "Publications"
     url: /publications/  
 
   - title: "Speaking & Teaching"
@@ -19,7 +23,9 @@ main:
 
   - title: "Advisory & Board Roles"
     url: /advisory/    
-    
+
+  - title: "Writing & Frameworks"
+    url: /writing-frameworks/    
  
   - title: "CV"
     url: /cv/
