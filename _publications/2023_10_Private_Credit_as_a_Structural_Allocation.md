@@ -19,10 +19,11 @@ As private credit becomes permanent, performance depends less on opportunistic e
 
 ---
 
-### Key points
-- Private credit persists because it has become permanent capital, not a temporary dislocation trade.
-- Institutional outcomes are increasingly determined by governance and operating controls, not category labels.
-- LP oversight, transparency, and conflicts management become central as strategies scale.
+### Key Points / Implications
+
+- Private credit is not solely a cyclical phenomenon but has become a structural component of institutional portfolios.
+- Governance practices (e.g., LP oversight, valuation transparency) now drive outcomes more than market timing.
+- Allocators and managers must prioritize governance systems over opportunistic entry points for long-term performance.
 
 ---
 
