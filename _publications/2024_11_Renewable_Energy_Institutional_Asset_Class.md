@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/renewable-energy-institutional-asset-class/
 date: 2024-11-01
 venue: "Working Paper"
-paper_date: "November 2024"
+paper_date: "2024"
 category: capital_allocation
 excerpt: "Why governance design, policy risk, and long-duration fiduciary alignment—rather than technology or price volatility—determine renewable energy investment outcomes."
 paperurl: /files/Sing_2024_Renewable_Energy_as_an_Institutional_Asset_Class_v7.pdf
