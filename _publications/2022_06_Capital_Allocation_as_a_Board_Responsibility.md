@@ -18,6 +18,15 @@ Organizations commonly treat strategy as the primary driver of outcomes and capi
 
 This paper argues that capital allocation is not a managerial or technical function, but a core governance responsibility. Boards and institutional owners shape outcomes not through strategic endorsement, but through the constraints, pacing, and irreversibility of capital commitment. Drawing on practitioner experience across public companies, private capital, venture, and institutional asset ownership, the paper reframes capital allocation as the most enduring expression of strategy—and the area where governance failure is most costly.
 
+---
+
+### Key Implications
+- Capital allocation, not strategic narrative, is the most durable mechanism through which governance shapes long-term outcomes.
+- Boards exert their greatest influence structurally—through pacing, constraints, and irreversibility—rather than through episodic strategic approval.
+- Governance failure in capital allocation accumulates silently over time, constraining future choice long before performance signals appear.
+- Evaluating governance effectiveness requires examining capital discipline and reallocation behavior, not stated strategy or intent.
+
+
 ### Keywords
 
 Capital allocation; board governance; strategy execution; institutional oversight; risk discipline; capital pacing; governance systems; fiduciary responsibility; long-term value creation
