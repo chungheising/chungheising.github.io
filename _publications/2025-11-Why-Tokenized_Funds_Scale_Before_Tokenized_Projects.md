@@ -12,15 +12,13 @@ paperurl: /files/Sing_2024_Why_Tokenized_Funds_Will_Scale_Before_Tokenized_Proje
 citation: "Sing, C. H. (2024). Why tokenized funds will scale before tokenized projects: Institutional adoption, fiduciary risk, and market design. Working paper."
 ---
 
+### Abstract
+Tokenization of real-world assets (RWAs) is frequently presented as a uniform technological shift across asset classes. In practice, adoption has followed a distinct and asymmetric pattern. Tokenized investment funds—particularly money market funds and similar pooled vehicles—have attracted early institutional participation, while tokenized infrastructure and project-level assets remain largely experimental. This paper argues that this sequencing is not accidental. It reflects differences in fiduciary risk, governance complexity, and market design requirements. Tokenized funds scale first because they inherit established legal structures, standardized governance, and familiar risk allocation frameworks, whereas tokenized projects introduce bespoke legal, operational, and governance challenges that institutional investors are structurally constrained to avoid.
 
-**Working Paper, November 2025**
+---
 
-This paper argues that **tokenized funds will reach institutional scale before tokenized projects**, not because projects are less “real” or less investable, but because **fund wrappers fit existing institutional workflows**—including compliance, custody, fiduciary oversight, reporting, diversification, and distribution. In contrast, project-level tokenization often collides with off-chain constraints such as permitting risk, operational governance, cashflow verification, and fragmented legal enforcement.
-
-The paper frames the adoption path as a sequencing problem: institutions will start where **risk ownership, governance, and distribution** can be standardized. Funds provide a familiar vehicle for **aggregation and delegated decision-making**, allowing tokenization to improve settlement, transferability, and investor onboarding without requiring every underlying asset to be “fully on-chain.”
-
-Implications are drawn for:
-- **Fund managers** designing tokenized vehicles (governance, disclosures, transfer controls)
-- **Platforms** building institutional-grade distribution rails (whitelisting, compliance automation, reporting)
-- **Regulators** evaluating tokenized structures (equivalence to existing fund regimes, investor protection)
-- **Institutional allocators** assessing operational risk and governance fit across wrappers
+### Key Implications
+- Institutional adoption of tokenization is governed more by fiduciary compatibility than by technological feasibility.
+- Financial innovation diffuses sequentially, scaling first where existing legal and governance structures can absorb incremental change.
+- Tokenization succeeds when it preserves clarity of authority, accountability, and enforceable oversight rather than attempting to bypass them.
+- Project-level tokenization faces structural limits not because of immature technology, but because it disrupts established governance and risk-allocation frameworks.
