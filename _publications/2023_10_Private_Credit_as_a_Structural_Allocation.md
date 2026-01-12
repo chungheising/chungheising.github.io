@@ -19,11 +19,11 @@ As private credit becomes permanent, performance depends less on opportunistic e
 
 ---
 
-### Key Points / Implications
-
-- Private credit is not solely a cyclical phenomenon but has become a structural component of institutional portfolios.
-- Governance practices (e.g., LP oversight, valuation transparency) now drive outcomes more than market timing.
-- Allocators and managers must prioritize governance systems over opportunistic entry points for long-term performance.
+### Key Implications
+- Private credit has transitioned from a cyclical opportunity to a permanent institutional allocation driven by governance and organizational capability.
+- Long-term outcomes in private credit are determined more by underwriting discipline, portfolio construction, and oversight systems than by entry timing.
+- As private credit scales, governance quality becomes the primary differentiator between resilient performance and hidden risk accumulation.
+- Treating private credit as episodic capital misdiagnoses its structural role within institutional portfolios.
 
 ---
 
