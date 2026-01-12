@@ -28,4 +28,4 @@ As private credit becomes permanent, performance depends less on opportunistic e
 ---
 
 ### Keywords
-Private credit; institutional allocation; governance; permanent capital; underwriting; risk controls; LP oversight
+Private credit; institutional investors; capital allocation; governance design; covenant enforcement; control without ownership; non-bank credit intermediation; fiduciary oversight; credit cycles; real-world assets
