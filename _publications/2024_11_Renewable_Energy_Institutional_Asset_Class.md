@@ -3,13 +3,13 @@ title: "Renewable Energy as an Institutional Asset Class"
 subtitle: "Capital Structure, Policy Risk, and Long-Duration Governance"
 collection: publications
 permalink: /publication/renewable-energy-institutional-asset-class/
-date: 2024-11-1
+date: 2024-11-01
 venue: "Working Paper"
 paper_date: "November 2024"
 category: capital_allocation
-excerpt: "Reframes renewable energy infrastructure as a governance-intensive institutional asset class, emphasizing capital structure, policy risk, and long-duration fiduciary design over multi-decade lifecycles."
-paperurl: /files/Sing_2025_Renewable_Energy_as_an_Institutional_Asset_Class_v7.pdf
-citation: "Sing, C. H. (2025). Renewable Energy as an Institutional Asset Class: Capital Structure, Policy Risk, and Long-Duration Governance. Working paper."
+excerpt: "Why governance design, policy risk, and long-duration fiduciary alignment—rather than technology or price volatility—determine renewable energy investment outcomes."
+paperurl: /files/Sing_2024_Renewable_Energy_as_an_Institutional_Asset_Class_v7.pdf
+citation: "Sing, C. H. (2024). Renewable energy as an institutional asset class: Capital structure, policy risk, and long-duration governance. Working paper."
 ---
 
 **Working Paper, Nov 2024**
@@ -20,18 +20,19 @@ citation: "Sing, C. H. (2025). Renewable Energy as an Institutional Asset Class:
 
 ---
 
-### Paper
+### Abstract
 
-- **PDF:** [Download]({{ page.paperurl }})
+Renewable energy infrastructure has evolved from a policy-supported niche into a core institutional asset class attracting long-duration capital from pension funds, insurance companies, sovereign wealth funds, and development finance institutions. Despite this shift, prevailing analytical frameworks continue to treat renewable energy primarily through the lenses of project finance or climate policy, underestimating the governance and fiduciary challenges that dominate long-term ownership outcomes. This paper reframes renewable energy as a governance-intensive institutional asset class defined by three interrelated dimensions: capital structure complexity, exposure to policy risk, and long-duration governance requirements. It argues that failures in governance design and policy-risk management—rather than technology risk or market price volatility—are the primary drivers of underperformance in renewable infrastructure portfolios. This perspective has direct implications for institutional asset allocation, public policy design, and the sequencing of financial innovation, including emerging interest in tokenized real-world assets.
 
 ---
 
-### Abstract
-
-Renewable energy infrastructure has undergone a structural transformation in how it is financed, owned, and governed. Once viewed primarily as a policy instrument or a high-risk technology investment, renewable energy assets—particularly utility-scale solar and wind—are now increasingly treated as long-duration infrastructure investments suitable for institutional portfolios. This paper argues that renewable energy should be analyzed explicitly as a governance-intensive institutional asset class characterized by complex capital structures, significant policy risk, and long-duration fiduciary challenges. Reframing renewable energy in this way clarifies the dominant drivers of long-run outcomes and highlights the limits of financial innovation efforts that prioritize liquidity over governance.
+### Key Implications
+- Renewable energy investment outcomes are governed more by long-duration governance quality than by technology performance or short-term price dynamics.
+- Capital structure design embeds control rights and fiduciary outcomes that persist across asset lifecycles.
+- Policy risk functions as a structural financial variable that cannot be fully mitigated through pricing or diversification alone.
+- Financial innovation in real assets succeeds only when governance maturity precedes abstraction and increased tradability.
 
 ---
 
 ### Keywords
-
-Renewable energy; infrastructure; institutional investors; policy risk; project finance; governance; fiduciary design
+Renewable energy infrastructure; institutional asset classes; infrastructure governance; capital structure design; policy risk; long-duration assets; fiduciary governance; institutional investors; real-world assets (RWA); asset tokenization
