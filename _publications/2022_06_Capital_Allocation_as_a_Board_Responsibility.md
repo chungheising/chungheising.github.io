@@ -26,6 +26,7 @@ This paper argues that capital allocation is not a managerial or technical funct
 - Governance failure in capital allocation accumulates silently over time, constraining future choice long before performance signals appear.
 - Evaluating governance effectiveness requires examining capital discipline and reallocation behavior, not stated strategy or intent.
 
+---
 
 ### Keywords
 
