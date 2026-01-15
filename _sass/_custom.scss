@@ -9,45 +9,39 @@
   margin: 0.2em 0 0.6em 0;
   opacity: 0.85;
 }
-/* Publications page structural labels */
 
+/* Section headers on normal pages */
 .page__content h2 {
   font-size: 1.35rem;
   font-weight: 600;
   margin-top: 1.8em;
 }
 
-
 .page__content h2:not(:first-of-type) {
   border-bottom: 1px solid #eee;
   padding-bottom: 0.25em;
 }
 
-/* Publications archive headings (works on /publications/) */
-.archive h2 {
-  border-bottom: 1px solid #eee;
-  padding-bottom: 0.25em;
-  margin-top: 1.8em;
-}
-
-/* Publications: demote only the "Themes" label */
-.pub-themes-label {
-  font-size: 1.05rem;
-  font-weight: 400;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  color: #666;
-  border-bottom: none;   /* no divider under Themes */
-  padding-bottom: 0;
-  margin-bottom: 0.6em;
-}
-
-/* Publications page: make theme headings visually distinct with a divider */
+/* Archive headings (publications list pages) */
 .archive h2,
 .archive h3 {
   border-bottom: 1px solid #eee;
   padding-bottom: 0.25em;
   margin-top: 1.8em;
+}
+
+/* Publications: demote only the "Themes" label (must add class in HTML) */
+.archive h2.pub-themes-label,
+.archive h3.pub-themes-label {
+  font-size: 1.05rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #666;
+
+  border-bottom: none;
+  padding-bottom: 0;
+  margin-bottom: 0.6em;
 }
 
 .archive__item-title {
@@ -61,11 +55,9 @@
   text-decoration: underline;
 }
 
-
 /* Publications: use title case, not ALL CAPS */
 .archive__item-title,
 .archive__item-title a {
   text-transform: none;
   letter-spacing: normal;
 }
-
