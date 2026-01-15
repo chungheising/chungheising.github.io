@@ -32,3 +32,6 @@ Drawing on governance experience across public companies, institutional investor
 ### Keywords
 
 Board effectiveness; corporate governance; fiduciary oversight; governance systems; board judgment; institutional design; risk boundaries; leadership oversight; long-term governance
+
+---
+
