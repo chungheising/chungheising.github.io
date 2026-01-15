@@ -12,8 +12,6 @@ paperurl: /files/Sing_2024_Renewable_Energy_as_an_Institutional_Asset_Class_v7.p
 citation: "Sing, C. H. (2024). Renewable energy as an institutional asset class: Capital structure, policy risk, and long-duration governance. Working paper."
 ---
 
-**Working Paper, Nov 2024**
-
 **Author:** Chung Hei Sing  
 **Affiliation:** Independent Researcher; Advisor, Renewable Energy Infrastructure  
 **Acknowledgements:** The author has advised large-scale renewable energy developers, infrastructure investors, and EPC firms across APAC and Europe. Views expressed are solely those of the author.
