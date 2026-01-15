@@ -38,3 +38,6 @@ This paper argues that the primary barrier is not technological maturity, but a 
 ### Keywords
 
 Real-world asset tokenization; institutional governance; fiduciary duty; smart contracts; incomplete contracts; market infrastructure; institutional adoption; blockchain regulation; financial market design.
+
+---
+
