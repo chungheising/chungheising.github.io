@@ -27,6 +27,7 @@ Drawing on governance experience across public companies, institutional investor
 - Misaligned expectations of boards often arise from confusing oversight with execution, leading to misplaced critiques of board effectiveness.
 - Institutional performance depends less on board activity levels than on the quality of governance structures that persist across leadership and strategy cycles.
 
+---
 
 ### Keywords
 
