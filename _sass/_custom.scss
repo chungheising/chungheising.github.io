@@ -17,15 +17,6 @@
   margin-top: 1.8em;
 }
 
-/* Demote "Themes" label specifically */
-.page__content h2:first-of-type {
-  font-size: 1.05rem;
-  font-weight: 400;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  color: #666;
-  margin-bottom: 0.6em;
-}
 
 .page__content h2:not(:first-of-type) {
   border-bottom: 1px solid #eee;
