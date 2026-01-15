@@ -10,6 +10,7 @@ category: tokenization
 excerpt: "Why the principle of “code is law” breaks down for real-world assets—and why institutional tokenization is fundamentally a governance and fiduciary design challenge."
 paperurl: /files/Sing_2025_Why_Code_is_Law_Fails_for_Real_World_Assets_v7.pdf
 citation: "Sing, C. H. (2025). Why “Code Is Law” Fails for Real-World Assets: Governance Gaps in Tokenized Markets. Working paper."
+
 ---
 
 ### Abstract
@@ -18,7 +19,7 @@ This paper argues that the primary barrier is not technological maturity, but a 
 
 ---
 
-## Key Implications
+### Key Implications
 
 - **Governance precedes technology.**  
   Tokenization succeeds where legal authority, fiduciary responsibility, and decision rights are clearly defined before automation is introduced.
