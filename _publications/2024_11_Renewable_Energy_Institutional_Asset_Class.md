@@ -36,3 +36,6 @@ Renewable energy infrastructure has evolved from a policy-supported niche into a
 
 ### Keywords
 Renewable energy infrastructure; institutional asset classes; infrastructure governance; capital structure design; policy risk; long-duration assets; fiduciary governance; institutional investors; real-world assets (RWA); asset tokenization
+
+---
+
