@@ -22,3 +22,9 @@ Tokenization of real-world assets (RWAs) is frequently presented as a uniform te
 - Financial innovation diffuses sequentially, scaling first where existing legal and governance structures can absorb incremental change.
 - Tokenization succeeds when it preserves clarity of authority, accountability, and enforceable oversight rather than attempting to bypass them.
 - Project-level tokenization faces structural limits not because of immature technology, but because it disrupts established governance and risk-allocation frameworks.
+
+---
+
+### Keywords: 
+
+Real-world asset (RWA) tokenization; tokenized funds; institutional adoption; market design; fiduciary risk; governance structures; legal standardization; regulatory compatibility; project finance; financial infrastructure.
