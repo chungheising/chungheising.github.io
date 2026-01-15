@@ -25,6 +25,9 @@ Tokenization of real-world assets (RWAs) is frequently presented as a uniform te
 
 ---
 
-### Keywords: 
+### Keywords
 
 Real-world asset (RWA) tokenization; tokenized funds; institutional adoption; market design; fiduciary risk; governance structures; legal standardization; regulatory compatibility; project finance; financial infrastructure.
+
+---
+
