@@ -31,3 +31,6 @@ This paper argues that capital allocation is not a managerial or technical funct
 ### Keywords
 
 Capital allocation; board governance; strategy execution; institutional oversight; risk discipline; capital pacing; governance systems; fiduciary responsibility; long-term value creation
+
+---
+
