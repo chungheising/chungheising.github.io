@@ -7,8 +7,6 @@ author_profile: true
 
 Many of the papers below formalize frameworks and perspectives developed over multiple years of professional practice and research. They are written in an applied style intended for institutional investors, policymakers, boards, founders, and research collaborators.
 
-## Themes
-
 ## Capital Allocation & Asset Classes
 This section examines capital allocation across public and private asset classes from an institutional perspective, focusing on risk, governance, liquidity, and implementation rather than performance forecasting.
 
