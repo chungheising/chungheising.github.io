@@ -6,7 +6,7 @@ permalink: /publication/hedge-funds-in-institutional-portfolios/
 date: 2018-05-01
 venue: "Working Paper"
 paper_date: "2018"
-category: capital-allocation
+category: capital_allocation
 excerpt: "Why hedge funds are best understood as risk-transforming tools rather than an asset class, and how a risk-budgeting lens improves institutional capital allocation and governance."
 paperurl: /files/Sing_2018_Hedge_Funds_in_Institutional_Portfolios_v7_Final.pdf
 citation: "Sing, C. H. (2018). Hedge funds in institutional portfolios: Risk budgeting beyond traditional metrics. Working paper."
