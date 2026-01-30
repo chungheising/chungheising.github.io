@@ -32,4 +32,4 @@ During my time at George Washington University, I founded and led a private equi
 
 I speak selectively on institutional capital allocation, governance, infrastructure/energy finance, and real-world asset tokenization.
 
-For invitations, please reach out via LinkedIn (sidebar).
+For invitations, please reach out via LinkedIn or email (sidebar).
