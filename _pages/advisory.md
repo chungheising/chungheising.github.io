@@ -18,4 +18,4 @@ I engage selectively in advisory and board-related work where governance and cap
 - Discrete projects or retained advisory (selectively)  
 - Clear deliverables, confidentiality, and pragmatic implementation focus  
 
-For inquiries, please reach out via LinkedIn (sidebar).
+For inquiries, please reach out via LinkedIn or email (sidebar).
