@@ -25,12 +25,12 @@ Current work centers on renewable infrastructure development, institutional capi
 <details>
 <summary>Applied research themes</summary>
 
-- Governance transparency in energy and infrastructure systems  
-- Climate-finance design and institutional trust  
-- AI-assisted ESG measurement and verification  
-- Tokenized environmental and infrastructure records  
-- Cross-border renewable energy and payment systems  
-- Sustainable finance and risk modeling  
+1. Governance transparency in energy and infrastructure systems  
+2. Climate-finance design and institutional trust  
+3. AI-assisted ESG measurement and verification  
+4. Tokenized environmental and infrastructure records  
+5. Cross-border renewable energy and payment systems  
+6. Sustainable finance and risk modeling  
 
 </details>
 
@@ -46,7 +46,6 @@ Current work centers on renewable infrastructure development, institutional capi
 
 ### Selected Working Papers & Research  
 **Governance & Capital Allocation**
-
 Conceptual and analytical working papers on fiduciary duty, capital allocation, and the institutional design of financial and real-asset systems.  
 Drafts available at: [chungheising.com/publications](/publications/)
 
