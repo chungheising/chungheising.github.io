@@ -9,19 +9,44 @@ redirect_from:
 
 {% include base_path %}
 
+### Research & Analytical Interests
+
+**Primary Focus Areas**
+- Governance and fiduciary design for institutional capital allocation  
+- Climate and real-asset finance under cross-border and regulatory complexity  
+
+<details>
+<summary>Applied research themes</summary>
+
+- Governance transparency in energy and infrastructure systems  
+- Climate-finance design and institutional trust  
+- AI-assisted ESG measurement and verification  
+- Tokenized environmental and infrastructure records  
+- Cross-border renewable energy and payment systems  
+- Sustainable finance and risk modeling  
+
+</details>
+
 Education
 ======
-* P.L.D., Harvard Business School, 2019  
+
+* Energy Innovation Certificate, Stanford University, 2022
+* P.L.D., Harvard Business School, 2019 
 * B.B.A., George Washington University, 2013  
+
+Selected Working Papers & Research - Governance & Capital Allocation
+======
+Conceptual and analytical working papers on fiduciary duty, capital allocation, and the institutional design of financial and real-asset systems. Drafts available under publications.
+
 
 Professional Experience
 ======
 * **Director & Advisor — Renewable Energy / Infrastructure**  
-  *PowerChina (selected projects)*  
+  *PowerChina *  
   * Focus on renewable energy development, infrastructure finance, and capital structuring  
   * Advisory on governance, risk allocation, and long-horizon institutional capital deployment  
 
-* **Board Member & Chair, Investment Committee**  
+* **Board Director & Chair, Investment Committee**  
   *TEDCO (Maryland Technology Development Corporation)*  
   * Oversight of venture and growth-stage investment programs  
   * Governance of public-purpose capital, investment policy, and portfolio construction  
