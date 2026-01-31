@@ -19,12 +19,14 @@ During my time at George Washington University, I founded and led a private equi
 <details>
 <summary><strong>Selected sessions hosted (click to expand)</strong></summary>
 
-- In-Q-Tel: Venture Capital in the Intelligence Community (GWU)
-- The Carlyle Group: Private Equity Operations and Fundraising (GWU)
-- IFC / World Bank: Distressed Assets Investing in Emerging Markets (GWU)
-- Core Capital Partners: Venture Capital Forum (GWU)
-- U.S. Department of Energy: National Business Plan Competition (GWU & DOE)
-- GIST TechConnect MENA (GWU, U.S. Department of State partners)
+<ul>
+  <li>In-Q-Tel: Venture Capital in the Intelligence Community (GWU)</li>
+  <li>The Carlyle Group: Private Equity Operations and Fundraising (GWU)</li>
+  <li>IFC / World Bank: Distressed Assets Investing in Emerging Markets (GWU)</li>
+  <li>Core Capital Partners: Venture Capital Forum (GWU)</li>
+  <li>U.S. Department of Energy: National Business Plan Competition (GWU & DOE)</li>
+  <li>GIST TechConnect MENA (GWU, U.S. Department of State partners)</li>
+  </ul>
 
 </details>
 
