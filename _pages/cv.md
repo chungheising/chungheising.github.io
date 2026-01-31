@@ -43,7 +43,6 @@ Selected Working Papers & Research - Governance & Capital Allocation
 ======
 Conceptual and analytical working papers on fiduciary duty, capital allocation, and the institutional design of financial and real-asset systems. Drafts available under publications.
 
-
 Professional Experience
 ======
 * **Director & Advisor — Renewable Energy / Infrastructure**  
