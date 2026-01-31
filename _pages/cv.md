@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+**Primary Professional Focus**  
+Director, Renewable Infrastructure Strategy (PowerChina) | Board & Investment Committee Leader | Researcher in Governance & Capital Allocation
+
+Current work centers on renewable infrastructure development, institutional capital allocation, and governance design for real-world assets.
+
 ### Research & Analytical Interests
 
 **Primary Focus Areas**
