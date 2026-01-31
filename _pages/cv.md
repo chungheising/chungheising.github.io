@@ -25,11 +25,16 @@ Current work centers on renewable infrastructure development, institutional capi
 <details>
 <summary>Applied research themes</summary>
 
-1. Governance transparency in energy and infrastructure systems  
-2. Climate-finance design and institutional trust  
-3. AI-assisted ESG measurement and verification  
-4. Tokenized environmental and infrastructure records  
-5. Cross-border renewable energy and payment systems  
+1. Governance transparency in energy and infrastructure systems
+   
+2. Climate-finance design and institutional trust
+   
+3. AI-assisted ESG measurement and verification
+   
+4. Tokenized environmental and infrastructure records
+   
+5. Cross-border renewable energy and payment systems
+    
 6. Sustainable finance and risk modeling  
 
 </details>
