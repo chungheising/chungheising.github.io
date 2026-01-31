@@ -14,6 +14,8 @@ Director, Renewable Infrastructure Strategy (PowerChina) | Board & Investment Co
 
 Current work centers on renewable infrastructure development, institutional capital allocation, and governance design for real-world assets.
 
+---
+
 ### Research & Analytical Interests
 
 **Primary Focus Areas**
@@ -32,51 +34,86 @@ Current work centers on renewable infrastructure development, institutional capi
 
 </details>
 
-Education
-======
+---
 
-* Energy Innovation Certificate, Stanford University, 2022
-* P.L.D., Harvard Business School, 2019 
-* B.B.A., George Washington University, 2013  
+### Education
 
-Selected Working Papers & Research - Governance & Capital Allocation
-======
-Conceptual and analytical working papers on fiduciary duty, capital allocation, and the institutional design of financial and real-asset systems. Drafts available under publications.
-
-Professional Experience
-======
-* **Director & Advisor — Renewable Energy / Infrastructure**  
-  *PowerChina *  
-  * Focus on renewable energy development, infrastructure finance, and capital structuring  
-  * Advisory on governance, risk allocation, and long-horizon institutional capital deployment  
-
-* **Board Director & Chair, Investment Committee**  
-  *TEDCO (Maryland Technology Development Corporation)*  
-  * Oversight of venture and growth-stage investment programs  
-  * Governance of public-purpose capital, investment policy, and portfolio construction  
-
-* **Institutional Investing & Advisory Roles**  
-  *Selected endowment, venture, and investment advisory platforms*  
-  * Asset allocation and manager selection across public and private markets  
-  * Venture and growth equity investing  
-  * Strategic advisory on capital allocation and governance  
+- Energy Innovation Certificate, Stanford University (2022)  
+- PLD, Harvard Business School (2019)  
+- BBA, George Washington University (2013)  
 
 ---
 
-Research Interests
-======
-* Institutional asset allocation and portfolio construction  
-* Governance, fiduciary duty, and board decision-making  
-* Infrastructure and energy finance  
-* Real-world asset (RWA) tokenization and digital market infrastructure  
+### Selected Working Papers & Research  
+**Governance & Capital Allocation**
 
+Conceptual and analytical working papers on fiduciary duty, capital allocation, and the institutional design of financial and real-asset systems.  
+Drafts available at: [chungheising.com/publications](/publications/)
 
-Service & Leadership
-======
-* Board and investment committee service in public-purpose and venture-oriented organizations  
-* Advisory roles supporting institutional governance, capital allocation, and infrastructure development  
-* Conference and academic speaker-series organization
+---
 
-Selected publications, talks, and teaching activities are listed on their respective pages.
+### Professional Experience (Selected)
+
+**Director — Renewable Energy / Infrastructure**  
+*PowerChina*  
+- Renewable energy development, infrastructure finance, and capital structuring  
+- Governance design, risk allocation, and long-horizon institutional capital deployment  
+
+**Director & Chair, Investment Committee**  
+*Maryland Technology Development Corporation (TEDCO)*  
+- Fiduciary oversight of venture and growth-stage investment programs  
+- Governance of public-purpose capital, investment policy, and portfolio construction  
+
+**Director & Principal**  
+*Applied Derivative Research*  
+- Research-driven investment and advisory platform focused on utilizing technology to enhance capital allocation and governance  
+- Current involvement is non-operating and focused on research, portfolio design, and governance analysis  
+
+**Selected Prior Roles**  
+- Director, Palm Drive Capital (Venture & Growth Equity)  
+- Senior Analyst & Head of Business Development, Arquitos Capital Management (Hedge Fund) 
+- Co-Founder & Board Director, Hindsight Investments (Fintech / Blockchain)  
+- Analyst, UNC Management Company (Endowment / Foundation)
+
+---
+
+### Advisory & Governance Roles
+
+*These roles are non-executive, part-time, and advisory in nature.*
+
+- Governance Observer, Maryland State Retirement and Pension System  
+- Governance Observer, Rockville Retirement Board  
+- Board Director, Corporate Esports Association  
+- Advisor, ADL/JLens  
+- Advisor, Sitestar (OTCPK: SYTE)
+
+---
+
+### Public Service & Leadership
+
+- Strategic Advisor to senior leadership and board committees at AARP, focusing on enterprise governance, organizational systems, and long-term sustainability strategy  
+- Startup selection committee member for regional technology and entrepreneurship conferences, ATEC  
+- Scholarship committee member, Harvard Business School Association of Hong Kong  
+- Pro bono advisor and mentor across university-affiliated entrepreneurship, social enterprise, and investment programs
+
+---
+
+### Awards & Recognition
+
+**Harvard Business School**
+- Ralph and Janice James Fellowship (social impact)  
+- Gerald D. Levy Fund Fellowship (nonprofit management & public education)  
+- MBA Class of 1973 Fellowship (social enterprise)
+- Brendan Kutler Fellowship (executive education)  
+- Additional merit-based fellowships and institutional sponsorships  
+
+**George Washington University**
+- Beta Gamma Sigma Honor Society  
+- Magna Cum Laude  
+- Outstanding Academic Achievement Award  
+
+---
+
+*Current professional activities are structured to avoid operational conflicts and reflect a combination of primary executive responsibility, board-level governance, research, and advisory work.*
 
 [Download CV (PDF)](/files/SING_ChungHei_CV.pdf)
