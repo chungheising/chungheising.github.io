@@ -71,10 +71,10 @@ Drafts available at: [chungheising.com/publications](/publications/)
 - Current involvement is non-operating and focused on research, portfolio design, and governance analysis  
 
 **Selected Prior Roles**  
-- Director, Palm Drive Capital (Venture & Growth Equity)  
+- Director, Palm Drive Capital (Venture Capital & Growth Equity Firm)  
 - Senior Analyst & Head of Business Development, Arquitos Capital Management (Hedge Fund) 
-- Co-Founder & Board Director, Hindsight Investments (Fintech / Blockchain)  
-- Analyst, UNC Management Company (Endowment / Foundation)
+- Co-Founder & Board Director, Hindsight Investments (Fintech / Blockchain Investment Platform)  
+- Analyst, UNC Management Company (Endowment and Foundation)
 
 ---
 
