@@ -13,11 +13,11 @@ citation: "Sing, C. H. (2020). When CSR/ESG Pays — and When It Doesn’t: Risk
 keywords: "CSR, ESG, financial performance, risk mitigation, economic materiality, corporate governance, fiduciary duty, institutional investing, capital allocation"
 ---
 
-## Abstract
+### Abstract
 
 Debate over corporate social responsibility (CSR) and environmental, social, and governance (ESG) investing has often been framed in binary terms: either as a source of systematic outperformance or as a distraction from fiduciary duty. This paper evaluates the empirical literature and reframes the discussion through a governance lens. The evidence does not support universal claims of excess returns. Instead, it suggests conditional financial effects operating through identifiable mechanisms, most consistently through downside risk mitigation. Financial relevance depends on economic materiality, governance integration, and horizon alignment. By synthesizing meta-analytic research, ratings disagreement studies, event-based evidence, and materiality-focused findings, the paper proposes a structured framework for boards and investment committees. Rather than advocating or dismissing ESG, it positions stakeholder governance as a conditional component of disciplined capital allocation.
 
-## Key Implications
+### Key Implications
 
 - ESG does not function as a universal alpha strategy; its financial relevance is conditional.
 - The most defensible financial channel is downside risk mitigation.
@@ -27,6 +27,12 @@ Debate over corporate social responsibility (CSR) and environmental, social, and
 - ESG ratings should be treated as screening inputs rather than substitutes for governance analysis.
 - Fiduciaries must distinguish between narrative alignment and embedded risk control.
 
-## Keywords
+### Keywords
 
 Corporate social responsibility (CSR); environmental, social, and governance (ESG) investing; financial performance; risk mitigation; economic materiality; corporate governance; fiduciary duty; institutional capital; capital allocation; downside risk.
+
+---
+
+### Acknowledgment
+
+The author thanks Professor Elie Ofek of Harvard Business School for sharing a collection of research and practitioner articles that informed the early framing of this paper. Any errors or interpretations are the author’s alone.
