@@ -15,7 +15,9 @@ keywords: "CSR, ESG, financial performance, risk mitigation, economic materialit
 
 ### Abstract
 
-Debate over corporate social responsibility (CSR) and environmental, social, and governance (ESG) investing has often been framed in binary terms: either as a source of systematic outperformance or as a distraction from fiduciary duty. This paper evaluates the empirical literature and reframes the discussion through a governance lens. The evidence does not support universal claims of excess returns. Instead, it suggests conditional financial effects operating through identifiable mechanisms, most consistently through downside risk mitigation. Financial relevance depends on economic materiality, governance integration, and horizon alignment. By synthesizing meta-analytic research, ratings disagreement studies, event-based evidence, and materiality-focused findings, the paper proposes a structured framework for boards and investment committees. Rather than advocating or dismissing ESG, it positions stakeholder governance as a conditional component of disciplined capital allocation.
+Debate over corporate social responsibility (CSR) and environmental, social, and governance (ESG) investing has often been framed in binary terms: either as a source of systematic outperformance or as a distraction from fiduciary duty. This paper evaluates empirical literature and reframes the discussion through a governance lens. The evidence does not support universal claims of excess returns. Instead, it suggests that financial effects are conditional and arise through identifiable mechanisms, most consistently through downside risk mitigation. Financial relevance depends on economic materiality, governance integration, and horizon alignment. By synthesizing meta-analytic research, ratings disagreement studies, event-based evidence, and materiality-focused findings, the paper proposes a structured framework for boards and investment committees. Rather than advocating or dismissing ESG, it positions stakeholder governance as a conditional component of disciplined capital allocation.
+
+---
 
 ### Key Implications
 
@@ -26,6 +28,8 @@ Debate over corporate social responsibility (CSR) and environmental, social, and
 - Capital duration determines whether ESG investments compound.
 - ESG ratings should be treated as screening inputs rather than substitutes for governance analysis.
 - Fiduciaries must distinguish between narrative alignment and embedded risk control.
+
+---
 
 ### Keywords
 
