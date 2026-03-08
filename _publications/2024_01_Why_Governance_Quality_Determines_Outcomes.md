@@ -6,7 +6,7 @@ permalink: /publication/governance-quality-determines-outcomes/
 date: 2024-01-01
 venue: "Working Paper"
 paper_date: "2024"
-category: governance
+category: fiduciary_governance
 excerpt: "Why governance quality—not asset class exposure—is the most consistent determinant of institutional investment outcomes across public markets, private markets, and real assets."
 paperurl: /files/Sing_2024_Why_Governance_Quality_Determines_Outcomes_v5_Final.pdf
 citation: "Sing, C. H. (2024). Why governance quality determines outcomes: A cross-asset institutional framework. Working paper."
