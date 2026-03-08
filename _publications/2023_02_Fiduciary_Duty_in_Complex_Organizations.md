@@ -6,7 +6,7 @@ permalink: /publication/fiduciary-duty-in-complex-organizations/
 date: 2023-02-01
 venue: "Working Paper"
 paper_date: "2023"
-category: governance
+category: fiduciary_governance
 excerpt: "Fiduciary duty is best evaluated as a decision-making discipline under uncertainty; failures are usually governance design problems, not single bad decisions."
 paperurl: /files/Sing_2023_Fiduciary_Duty_in_Complex_Organizations_v7.pdf
 citation: "Sing, C. H. (2023). Fiduciary duty in complex organizations: Decision-making under uncertainty. Working paper."
