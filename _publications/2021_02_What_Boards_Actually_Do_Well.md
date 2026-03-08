@@ -6,7 +6,7 @@ permalink: /publication/what-boards-actually-do-well/
 date: 2021-02-01
 venue: "Working Paper"
 paper_date: "2021"
-category: governance
+category: fiduciary_governance
 excerpt: "Boards add value not by managing operations, but by setting decision boundaries, stewarding capital under uncertainty, selecting leadership, and preventing irreversible failures."
 paperurl: /files/Sing_2021_What_Boards_Actually_Do_Well_v6.pdf
 citation: "Sing, C. H. (2021). What boards actually do well: A governance-first view of oversight, not management. Working paper."
