@@ -5,44 +5,44 @@ permalink: /publications/
 author_profile: true
 ---
 
-Many of the papers below formalize frameworks and perspectives developed over multiple years of professional practice and research. They are written in an applied style intended for institutional investors, policymakers, boards, founders, and research collaborators.
+Many of the papers below formalize frameworks and perspectives developed over multiple years of professional practice and research. They are written in an applied style for institutional investors, policymakers, boards, and research collaborators, with a focus on how governance structures shape capital allocation across traditional and emerging asset systems.
 
-## Capital Allocation & Asset Classes
-This section examines capital allocation across public and private asset classes from an institutional perspective, focusing on risk, governance, liquidity, and implementation rather than performance forecasting.
+## Fiduciary Architecture & Institutional Governance
+This section serves as the intellectual spine of my research. It examines fiduciary duty, board oversight, institutional accountability, decision-making under uncertainty, and the governance structures that shape long-term capital allocation outcomes.
 
-{% assign pubs = site.publications | where: "category", "capital_allocation" | sort: "date" | reverse %}
+{% assign pubs = site.publications | where: "category", "fiduciary_governance" | sort: "date" | reverse %}
 {% for post in pubs %}
   {% include archive-single.html titles_only=true %}
 {% endfor %}
 
-## Governance, Boards & Fiduciary Design
-This work focuses on governance and fiduciary design at the board and institutional level, including decision-making processes, accountability, and long-term risk oversight.
+## Capital Allocation & Risk Design
+This section examines how institutions allocate capital across asset classes, with attention to risk budgets, liquidity, implementation design, manager selection, and the governance assumptions embedded in portfolio construction.
 
-{% assign pubs = site.publications | where: "category", "governance" | sort: "date" | reverse %}
+{% assign pubs = site.publications | where: "category", "capital_risk" | sort: "date" | reverse %}
 {% for post in pubs %}
   {% include archive-single.html titles_only=true %}
 {% endfor %}
 
-## Entrepreneurship & Institutional Scaling
-This section examines entrepreneurship and organizational scaling through an institutional lens, focusing on governance, capital structure, and credibility as organizations grow.
+## Infrastructure & Renewable Capital Systems
+This section focuses on real-world applications in infrastructure and renewable energy finance, including capital structure, policy exposure, governance design, and the institutional conditions required for long-duration investment.
 
-{% assign pubs = site.publications | where: "category", "entrepreneurship" | sort: "date" | reverse %}
+{% assign pubs = site.publications | where: "category", "infrastructure_renewables" | sort: "date" | reverse %}
 {% for post in pubs %}
   {% include archive-single.html titles_only=true %}
 {% endfor %}
 
-## Tokenization & Digital Market Infrastructure
-This body of work examines tokenization and digital market infrastructure for real-world assets, focusing on governance, legal structure, and institutional implementation rather than technology alone.
+## Digital Infrastructure & Tokenized Markets
+This section examines tokenization, digital market infrastructure, and real-world asset systems through an institutional lens, focusing on governance, legal structure, market design, and implementation constraints rather than technology alone.
 
-{% assign pubs = site.publications | where: "category", "tokenization" | sort: "date" | reverse %}
+{% assign pubs = site.publications | where: "category", "digital_tokenized" | sort: "date" | reverse %}
 {% for post in pubs %}
   {% include archive-single.html titles_only=true %}
 {% endfor %}
 
-## Case Notes & Applied Experience
-The notes below reflect applied experience across institutional investing, governance, and infrastructure. They are intended as reflective syntheses rather than formal research contributions.
+## Applied Notes & Institutional Observations
+The notes below are reflective syntheses drawn from applied experience across institutional investing, governance, infrastructure, and organizational scale. They are intended as integrative observations rather than formal research contributions.
 
-{% assign pubs = site.publications | where: "category", "case_notes" | sort: "date" | reverse %}
+{% assign pubs = site.publications | where: "category", "applied_notes" | sort: "date" | reverse %}
 {% for post in pubs %}
   {% include archive-single.html titles_only=true %}
 {% endfor %}
