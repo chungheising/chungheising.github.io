@@ -6,7 +6,7 @@ permalink: /publication/when-csr-esg-pays/
 date: 2020-10-01
 venue: "Working Paper"
 paper_date: "2020"
-category: governance
+category: fiduciary_governance
 excerpt: "A governance-centered evaluation of the empirical relationship between CSR/ESG and financial performance, arguing that financial impact is conditional on materiality, governance integration, and capital duration."
 paperurl: /files/Sing_2020_When_CSR-ESG_Pays_and_When_It_Doesnt_v7_Final.pdf
 citation: "Sing, C. H. (2020). When CSR/ESG pays — and when it doesn’t: Risk mitigation, materiality, and the governance conditions for financial performance. Working paper."
