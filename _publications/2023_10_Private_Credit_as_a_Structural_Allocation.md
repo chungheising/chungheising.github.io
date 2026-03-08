@@ -6,7 +6,7 @@ permalink: /publication/private-credit-structural-allocation/
 date: 2023-10-01
 venue: "Working Paper"
 paper_date: "2023"
-category: capital_allocation
+category: capital_risk
 excerpt: "Private credit has shifted from episodic dislocation trade to permanent capital; governance and institutional process now drive outcomes more than cycle timing."
 paperurl: /files/Sing_2023_Private_Credit_as_a_Structural_Allocation_v7.pdf
 citation: "Sing, C. H. (2023). Private Credit as a Structural Allocation: Why Institutional Capital Treats Private Credit as Permanent, Governance-Intensive Exposure. Working paper."
