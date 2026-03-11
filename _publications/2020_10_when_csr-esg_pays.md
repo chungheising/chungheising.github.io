@@ -39,4 +39,4 @@ Corporate social responsibility (CSR); environmental, social, and governance (ES
 
 ### Acknowledgment
 
-The author thanks [Professor Joshua D. Margolis] (https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10658) of Harvard Business School for his throughful perspectives on leadership and responsibility, and [Professor Elie Ofek](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=13407) of Harvard Business School for sharing a collection of research and practitioner articles that informed the early framing of this paper. Any errors or interpretations are the author’s alone.
+The author thanks [Professor Joshua D. Margolis](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=10658) of Harvard Business School for his throughful perspectives on leadership and responsibility, and [Professor Elie Ofek](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=13407) of Harvard Business School for sharing a collection of research and practitioner articles that informed the early framing of this paper. Any errors or interpretations are the author’s alone.
