@@ -9,7 +9,7 @@ paper_date: "2023"
 category: digital_tokenized
 excerpt: "A practical framework for understanding the full RWA tokenization stack—why institutional adoption depends as much on governance, legal enforceability, and operating constraints as on on-chain technology."
 paperurl: /files/Sing_2023_The_RWA_Tokenization_Stack_v8.pdf
-citation: "Sing, C. H. (2023). The RWA Tokenization Stack: Technology, Governance, and Institutional Constraints. Working paper."
+citation: "Sing, C. H. (2023). The RWA tokenization stack: Technology, governance, and institutional constraints. Working paper."
 ---
 
 ### Abstract
