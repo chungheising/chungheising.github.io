@@ -8,7 +8,7 @@ venue: "Working Paper"
 paper_date: "2023"
 category: capital_risk
 excerpt: "Strategy labels organize portfolios, but they do not explain how returns are generated. This paper shows that performance dispersion within strategies reflects differences in manager processes, and that a process-oriented approach provides a more complete framework for manager selection and portfolio construction."
-paperurl: /files/Sing_2023_Manager_Selection_vs_Strategy_Labels_v7
+paperurl: /files/Sing_2023_Manager_Selection_vs_Strategy_Labels_v7.pdf
 citation: "Sing, C. H. (2023). Manager selection vs strategy labels: Why process matters more than categories. Working paper."
 ---
 
