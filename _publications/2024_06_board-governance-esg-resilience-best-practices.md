@@ -30,6 +30,6 @@ In an era defined by market volatility, shifting stakeholder expectations, and h
 
 ### Keywords
 
-Corporate governance; board governance; ESG, board effectiveness; risk management; stakeholder governance; corporate leadership; governance resilience; board compositionl long-term value creation
+Corporate governance; board governance; ESG, board effectiveness; risk management; stakeholder governance; corporate leadership; governance resilience; board composition; long-term value creation
 
 ---
