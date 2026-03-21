@@ -7,13 +7,6 @@ author_profile: true
 
 Many of the papers below formalize frameworks and perspectives developed over multiple years of professional practice and research. They are written in an applied style for institutional investors, policymakers, boards, and research collaborators, with a focus on how governance structures shape capital allocation across traditional and emerging asset systems.
 
-## Fiduciary Architecture & Institutional Governance
-This section serves as the intellectual spine of my research. It examines fiduciary duty, board oversight, institutional accountability, decision-making under uncertainty, and the governance structures that shape long-term capital allocation outcomes.
-
-{% assign pubs = site.publications | where: "category", "fiduciary_governance" | sort: "date" | reverse %}
-{% for post in pubs %}
-  {% include archive-single.html titles_only=true %}
-{% endfor %}
 
 ## Capital Allocation & Risk Design
 This section examines how institutions allocate capital across asset classes, with attention to risk budgets, liquidity, implementation design, manager selection, and the governance assumptions embedded in portfolio construction.
@@ -23,10 +16,10 @@ This section examines how institutions allocate capital across asset classes, wi
   {% include archive-single.html titles_only=true %}
 {% endfor %}
 
-## Infrastructure & Renewable Capital Systems
-This section focuses on real-world applications in infrastructure and renewable energy finance, including capital structure, policy exposure, governance design, and the institutional conditions required for long-duration investment.
+## Fiduciary Architecture & Institutional Governance
+This section serves as the intellectual spine of my research. It examines fiduciary duty, board oversight, institutional accountability, decision-making under uncertainty, and the governance structures that shape long-term capital allocation outcomes.
 
-{% assign pubs = site.publications | where: "category", "infrastructure_renewables" | sort: "date" | reverse %}
+{% assign pubs = site.publications | where: "category", "fiduciary_governance" | sort: "date" | reverse %}
 {% for post in pubs %}
   {% include archive-single.html titles_only=true %}
 {% endfor %}
@@ -38,9 +31,6 @@ This section examines tokenization, digital market infrastructure, and real-worl
 {% for post in pubs %}
   {% include archive-single.html titles_only=true %}
 {% endfor %}
-
-## Applied Notes & Institutional Observations
-The notes below are reflective syntheses drawn from applied experience across institutional investing, governance, infrastructure, and organizational scale. They are intended as integrative observations rather than formal research contributions.
 
 {% assign pubs = site.publications | where: "category", "applied_notes" | sort: "date" | reverse %}
 {% for post in pubs %}
