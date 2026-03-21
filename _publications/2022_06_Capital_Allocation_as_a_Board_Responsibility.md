@@ -6,7 +6,7 @@ permalink: /publication/capital-allocation-as-board-responsibility/
 date: 2022-06-01
 venue: "Working Paper"
 paper_date: "2022"
-category: fiduciary_governance
+category: capital_risk
 excerpt: "Capital allocation—not strategy documents—determines which priorities survive. This paper reframes capital allocation as the board’s most enduring and consequential governance responsibility."
 paperurl: /files/Sing_2022_Capital_Allocation_as_a_Board_Responsibility_v8.pdf
 citation: "Sing, C. H. (2022). Capital allocation as a board responsibility: Why strategy fails without governance. Working paper."
