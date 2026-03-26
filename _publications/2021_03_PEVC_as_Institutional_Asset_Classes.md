@@ -15,7 +15,9 @@ citation: "Sing, C. H. (2023). Evaluating private equity and venture capital as 
 ### Abstract
 
 Private equity and venture capital are widely treated as asset classes within institutional portfolios, providing a convenient framework for allocation, reporting, and benchmarking. However, this classification masks substantial variation in underlying exposures, liquidity characteristics, and governance requirements across strategies. While institutional investors are generally aware of this heterogeneity, allocation and evaluation frameworks continue to rely on simplified labels, creating a persistent gap between how capital is categorized and how it behaves in practice. 
+
 This paper examines whether private equity and venture capital function as coherent asset classes, or whether they are better understood as implementation channels through which distinct exposures are accessed. By analyzing risk, return dispersion, liquidity constraints, and governance demands, the paper shows that outcomes in private markets are driven less by the asset-class label and more by strategy selection, manager access, and institutional capability. 
+
 Reframing private equity and venture capital as implementation channels provides a more precise foundation for portfolio design. It shifts the focus from category-based allocation toward exposure-based decision-making, improving alignment between investment objectives, portfolio construction, and realized outcomes. The paper concludes that while asset-class labels remain useful for communication and governance, effective institutional investing requires a more explicit understanding of the exposures they represent.
 
 ---
