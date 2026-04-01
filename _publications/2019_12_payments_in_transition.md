@@ -8,7 +8,7 @@ date: "2019-12-01"
 venue: "Working Paper"
 category: digital_tokenized
 excerpt: "Payments are ceasing to function as a standalone financial service and are becoming foundational digital infrastructure. This paper examines how technology, data, regulation, and platform expansion are reshaping the competitive logic of the payments industry."
-paperurl: /files/Sing_2019_Payments-in-Transition_v7.pdf
+paperurl: /files/Sing_2019_Payments_in_Transition_v7.pdf
 citation: "Sing, C. H. (2019). Payments in transition: Technology, incentives, and the rise of digital infrastructure. Working paper."
 ---
 
