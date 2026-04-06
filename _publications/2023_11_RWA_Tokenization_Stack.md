@@ -8,13 +8,18 @@ venue: "Working Paper"
 paper_date: "2023"
 category: digital_tokenized
 excerpt: "A practical framework for understanding the full RWA tokenization stack—why institutional adoption depends as much on governance, legal enforceability, and operating constraints as on on-chain technology."
-paperurl: /files/Sing_2023_The_RWA_Tokenization_Stack_v8.pdf
+paperurl: /files/Sing_2023_The_RWA_Tokenization_Stack.pdf
 citation: "Sing, C. H. (2023). The RWA tokenization stack: Technology, governance, and institutional constraints. Working paper."
 ---
 
 ### Abstract
 
-Tokenization of real-world assets (RWAs) is frequently presented as a technological stack composed of blockchains, smart contracts, and digital tokens. In practice, however, most tokenization initiatives fail to progress beyond pilots or limited deployments. This paper argues that these failures stem from a mischaracterization of tokenization as primarily a software problem. Drawing on institutional finance and market design perspectives, the paper proposes an alternative conception of the “RWA tokenization stack” as a multi-layered system in which technology is only one component. Legal enforceability, governance authority, fiduciary structures, and regulatory compatibility form higher-order layers that constrain and shape the viability of tokenized markets. By explicitly mapping these layers and their interactions, the paper provides a framework for understanding why many RWA tokenization efforts stall and what conditions are necessary for institutional adoption.
+Tokenization of real-world assets is frequently presented as a technological problem — where advances in blockchains, smart contracts, and digital infrastructure will eventually resolve. This paper argues that such framing misidentifies the binding constraint. Most tokenization initiatives stall not because technology fails, but because the institutional layers that determine investability — legal enforceability, governance authority, fiduciary accountability, and regulatory compatibility — are left under designed.
+
+The paper reconceptualizes the RWA tokenization stack as a six-layer institutional system in which technology occupies only the lowest levels. Higher-order layers govern whether tokenized claims are enforceable, governable, and compatible with the fiduciary and regulatory frameworks within which institutional capital operates. Weakness at these layers cannot be compensated by sophistication at lower ones.
+
+By mapping these layers and their interactions, the paper provides a framework for diagnosing why tokenization efforts stall and identifying the conditions required for tokenized RWAs can achieve durable institutional adoption. The central implication is direct: tokenization is not constrained by what can be built, but by what can be governed.
+
 
 ---
 
