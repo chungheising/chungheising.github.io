@@ -10,7 +10,6 @@ category: digital_tokenized
 excerpt: "Settlement is shifting from a back-end process to a core layer of financial system design—where stablecoins, CBDCs, and tokenization define how value is transferred, governed, and integrated across programmable infrastructure."
 paperurl: /files/Sing_2025_The_Architecture_of_Settlement.pdf
 citation: "Sing, C. H. (2025). The architecture of settlement: Stablecoins, CBDCs, tokenization, and programmable financial infrastructure. Working paper."
-
 ---
 
 
