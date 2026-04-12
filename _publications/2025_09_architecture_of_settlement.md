@@ -12,7 +12,6 @@ paperurl: /files/Sing_2025_The_Architecture_of_Settlement.pdf
 citation: "Sing, C. H. (2025). The architecture of settlement: Stablecoins, CBDCs, tokenization, and programmable financial infrastructure. Working paper."
 ---
 
-
 ### Abstract
 This paper examines the structural transformation of financial systems through the lens of settlement infrastructure. While the first wave of payments innovation focused on improving access, speed, and user experience, it left the underlying mechanisms of settlement largely unchanged. A new phase is now emerging — defined not by incremental optimization, but by a redesign of how value is transferred, recorded, and governed.
 
@@ -22,9 +21,9 @@ The analysis identifies three converging developments shaping this transition: t
 
 The implications extend to financial institutions, asset managers, and policymakers, requiring new approaches to infrastructure participation, regulatory design, and strategic positioning.
 
+---
 
 ### Key Implications
-
 - Settlement infrastructure — not the payment interface — is now the primary site of competition in financial systems, determining who controls access, participation rules, and the economics of value transfer.
 - Stablecoins, CBDCs, and tokenized assets represent competing governance architectures for the same function: providing a trusted, programmable basis for value transfer across digital financial systems.
 - Programmability transforms compliance from an external regulatory constraint into an embedded design variable, requiring institutions and policymakers to engage in infrastructure governance rather than product oversight alone.
@@ -33,7 +32,6 @@ The implications extend to financial institutions, asset managers, and policymak
 ---
 
 ### Keywords
-
 Programmable finance; settlement infrastructure; stablecoins; CBDCs; tokenization; financial architecture; digital assets; payment systems; financial infrastructure; regulatory design; real-world assets (RWA)
 
 ---
