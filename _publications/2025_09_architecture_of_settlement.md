@@ -2,14 +2,14 @@
 title: "The Architecture of Settlement"
 subtitle: "Stablecoins, CBDCs, Tokenization, and Programmable Financial Infrastructure"
 collection: publications
-permalink: /publication/2025_09_architecture_of_settlement/
-date: "2025-09-01"
+permalink: /publication/architecture_of_settlement/
+date: 2025-09-01
 venue: "Working Paper"
 paper_date: "2025"
 category: digital_tokenized
 excerpt: "Settlement is shifting from a back-end process to a core layer of financial system design—where stablecoins, CBDCs, and tokenization define how value is transferred, governed, and integrated across programmable infrastructure."
 paperurl: /files/Sing_2025_The_Architecture_of_Settlement.pdf
-how_to_cite: "Sing, C. H. (2025). The architecture of settlement: Stablecoins, CBDCs, tokenization, and programmable financial infrastructure. Working paper."
+citation: "Sing, C. H. (2025). The architecture of settlement: Stablecoins, CBDCs, tokenization, and programmable financial infrastructure. Working paper."
 
 ---
 
