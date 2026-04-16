@@ -1,6 +1,6 @@
 ---
 title: "From Concept to On-Chain"
-subtitle: "An Institutional Playbook for Tokenization"
+subtitle: "An Institutional Playbook for Tokenization Structuring, Governance, and Lifecycle Management"
 collection: publications
 permalink: /publication/from-concept-to-on-chain/
 date: 2025-07-01
@@ -8,8 +8,8 @@ venue: "Working Paper"
 paper_date: "2025"
 category: digital_tokenized
 excerpt: "Tokenization will scale not through technological innovation, but through institutional design—where governance, legal structure, and lifecycle management determine viability."
-paperurl: /files/Sing_2025_From_Concept_to_On-Chain_v8.pdf
-citation: "Sing, C. H. (2025). From concept to on-chain: An institutional playbook for tokenization. Working paper."
+paperurl: /files/Sing_2025_From_Concept_to_On-Chain.pdf
+citation: "Sing, C. H. (2025). From concept to on-chain: An institutional playbook for tokenization structuring, governance, and lifecycle management. Working paper."
 ---
 
 ### Abstract
