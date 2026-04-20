@@ -2,7 +2,7 @@
 title: "The Architecture of Settlement"
 subtitle: "Stablecoins, CBDCs, Tokenization, and Programmable Financial Infrastructure"
 collection: publications
-permalink: /publication/architecture_of_settlement/
+permalink: /publication/architecture-of-settlement/
 date: 2025-09-01
 venue: "Working Paper"
 paper_date: "2025"
