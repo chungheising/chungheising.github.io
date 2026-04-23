@@ -8,12 +8,16 @@ venue: "Working Paper"
 paper_date: "2024"
 category: digital_tokenized
 excerpt: "Tokenized funds scale before tokenized projects because they inherit standardized legal structures, fiduciary governance, and regulatory compatibility that institutional investors are structurally required to preserve."
-paperurl: /files/Sing_2024_Why_Tokenized_Funds_Will_Scale_Before_Tokenized_Projects_v7.pdf
+paperurl: /files/Sing_2024_Why_Tokenized_Funds_Will_Scale_Before_Tokenized_Projects.pdf
 citation: "Sing, C. H. (2024). Why tokenized funds will scale before tokenized projects: Institutional adoption, fiduciary risk, and market design. Working paper."
 ---
 
 ### Abstract
-Tokenization of real-world assets (RWAs) is frequently presented as a uniform technological shift across asset classes. In practice, adoption has followed a distinct and asymmetric pattern. Tokenized investment funds—particularly money market funds and similar pooled vehicles—have attracted early institutional participation, while tokenized infrastructure and project-level assets remain largely experimental. This paper argues that this sequencing is not accidental. It reflects differences in fiduciary risk, governance complexity, and market design requirements. Tokenized funds scale first because they inherit established legal structures, standardized governance, and familiar risk allocation frameworks, whereas tokenized projects introduce bespoke legal, operational, and governance challenges that institutional investors are structurally constrained to avoid.
+Tokenization of real-world assets is frequently presented as a uniform technological shift across asset classes. In practice, adoption has followed a distinct and predictable pattern — one shaped by institutional structure rather than technological readiness. Tokenized investment funds — particularly money market funds, short-duration government bond vehicles, and similar pooled vehicles — have attracted early institutional participation, while tokenized infrastructure and project-level assets remain largely experimental. 
+
+This paper argues that this sequencing reflects structural differences in fiduciary risk, governance complexity, and market design requirements — not technological readiness or regulatory timing. Tokenized funds scale first because they inherit established legal structures, standardized governance, and familiar risk allocation frameworks. Tokenized projects, by contrast, introduce bespoke legal, operational, and governance challenges that institutional investors are structurally constrained to avoid. Fiduciary duty is the binding constraint, not the limiting technology. 
+
+The analysis has direct implications for asset managers, regulators, and platform designers seeking to understand how institutional capital absorbs financial innovation — and why governance compatibility, not programmability, determines adoption sequencing.
 
 ---
 
