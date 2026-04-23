@@ -1,6 +1,6 @@
 ---
 title: "Why Tokenized Funds Will Scale Before Tokenized Projects"
-subtitle: "Institutional Adoption, Fiduciary Risk, and Market Design"
+subtitle: "Fiduciary Risk, Governance Continuity, and the Logic of Sequenced Adoption"
 collection: publications
 permalink: /publication/tokenized-funds-scale-before-tokenized-projects/
 date: 2024-10-01
