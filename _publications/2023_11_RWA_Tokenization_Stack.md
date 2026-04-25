@@ -1,6 +1,6 @@
 ---
 title: "The RWA Tokenization Stack"
-subtitle: "Technology, Governance, and Institutional Constraints"
+subtitle: "Why Institutional Design Determines What Technology Cannot"
 collection: publications
 permalink: /publication/rwa-tokenization-stack/
 date: 2023-11-01
@@ -9,7 +9,7 @@ paper_date: "2023"
 category: digital_tokenized
 excerpt: "A practical framework for understanding the full RWA tokenization stack—why institutional adoption depends as much on governance, legal enforceability, and operating constraints as on on-chain technology."
 paperurl: /files/Sing_2023_The_RWA_Tokenization_Stack.pdf
-citation: "Sing, C. H. (2023). The RWA tokenization stack: Technology, governance, and institutional constraints. Working paper."
+citation: "Sing, C. H. (2023). The RWA tokenization stack: Why institutional design determines what technology cannot. Working paper."
 ---
 
 ### Abstract
