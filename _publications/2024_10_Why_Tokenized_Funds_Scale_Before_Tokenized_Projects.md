@@ -9,7 +9,7 @@ paper_date: "2024"
 category: digital_tokenized
 excerpt: "Tokenized funds scale before tokenized projects because they inherit standardized legal structures, fiduciary governance, and regulatory compatibility that institutional investors are structurally required to preserve."
 paperurl: /files/Sing_2024_Why_Tokenized_Funds_Will_Scale_Before_Tokenized_Projects.pdf
-citation: "Sing, C. H. (2024). Why tokenized funds will scale before tokenized projects: Institutional adoption, fiduciary risk, and market design. Working paper."
+citation: "Sing, C. H. (2024). Why tokenized funds will scale before tokenized projects: Fiduciary risk, governance continuity, and the logic of sequenced adoption. Working paper."
 ---
 
 ### Abstract
