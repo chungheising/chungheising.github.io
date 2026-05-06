@@ -8,7 +8,7 @@ venue: "Working Paper"
 paper_date: "2024"
 category: fiduciary_governance
 excerpt: "In volatile markets, board governance is no longer just oversight—it is a strategic function that determines resilience, ESG outcomes, and long-term value creation."
-paperurl: /files/Sing_2024_Board_Governance_in_Complex_Environments.pdf
+paperurl: /files/Sing_2024_Board_Governance_Complex_Environments.pdf
 citation: "Sing, C. H. (2024). Board governance in complex environments: Institutional design, oversight, and resilience in an era of uncertainty. Working paper."
 
 ---
