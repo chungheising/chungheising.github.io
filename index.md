@@ -6,41 +6,43 @@ author_profile: true
 ---
 
 
-# Applied research on institutional investing, governance, and real-world asset infrastructure.
+# Research on durable competitive advantage, strategic capital allocation, and technological change
 
-I work at the intersection of **capital allocation**, **fiduciary governance**, and **emerging financial infrastructure**, with a particular focus on **real-world assets (RWA)**, **infrastructure/energy finance**, and **long-horizon investment decision-making**.
+I study why some organizations create, sustain, and compound superior economic performance — and how strategic decisions and capital allocation shape that advantage over time.
 
-This site is an academic-style archive of **frameworks, implementation notes, and selected talks** intended for institutional investors, policymakers, boards, and research collaborators.
+My research sits at the intersection of **strategy, investing, governance across institutional and technological change**, with a focus on how investors and organizations identify, build, reinforce, or destroy durable competitive advantage. I examine these questions across the investment ecosystem — from sovereign and institutional capital, to mature companies, to venture-backed businesses.
 
 ---
 
 ## Current focus
 
-- **Tokenization & RWA market infrastructure:** governance, legal/operational design, and institutional implementation
-- **Infrastructure & energy finance:** cash flows, risk allocation, and long-term capital deployment
-- **Institutional decision-making:** boards, fiduciary design, and governance quality as a driver of outcomes
+- **Durable competitive advantage** — how organizational capabilities, management, governance, innovation, and strategic choices create or erode persistent economic advantage
+- **Strategic capital allocation** — why some organizations and investors allocate capital systematically better than others, and how that capability is built, exercised, and lost
+- **Institutional and technological change** — how internal/external shocks and emerging technologies reshape organizational capabilities, investment decisions, and the sources of competitive advantage
 
 ---
 
-## Selected writing (start here)
+## Selected writing
 
-- [The RWA Tokenization Stack: From Assets to Investors](/publications/)
-- [Renewable Energy as an Asset Class: Cash Flows, Risk, and Governance](/publications/)
-- [Capital Allocation as a Board Responsibility, Not a Management Detail](/publications/)
-- [Private Credit as a Structural Allocation: Where It Fits and Where It Breaks](/publications/)
+- [Hedge Funds in Institutional Portfolios: Risk Budgeting Beyond Correlation](https://chungheising.com/publications/)
+- [Private Credit as a Structural Allocation: Why Governance, Not Yield, Determines Long-Term Outcomes](https://chungheising.com/publications/)
+- [Renewable Energy as an Institutional Asset Class: Capital Structure, Policy Risk, and Long-Duration Governance](https://chungheising.com/publications/)
+- [Capital Allocation as a Board Responsibility: Why Strategy Fails Without Governance](https://chungheising.com/publications/)
 
-> Tip: I publish in “research note” format—concise, structured, and designed to be useful in real decision contexts.
+My work combines practitioner experience with applied and academic research, with the aim of producing ideas, evidence, and frameworks useful in real investment and organizational decisions.
 
 ---
 
 ## Collaboration and advisory
 
-I engage selectively on:
-- **RWA/tokenization strategy and institutional readiness**
-- **infrastructure / energy finance governance and structuring**
-- **board / investment committee decision frameworks**
-- **startup / fund strategy at the intersection of finance and infrastructure**
+I engage selectively with investors, companies, founders, boards, and research collaborators on:
 
-If you’d like to discuss research collaboration or advisory work, the fastest way to reach me is via LinkedIn (sidebar).
+- investment strategy and capital allocation
+- competitive advantage and business quality
+- governance and organizational decision-making
+- AI and technology-driven organizational change
+- infrastructure, energy transition, and long-duration investment
+- institutional investing, private markets, and venture capital
 
+If you'd like to discuss research collaboration, teaching, speaking, advisory work, or investment-related research, the fastest way to reach me is via LinkedIn or email.
 ---
