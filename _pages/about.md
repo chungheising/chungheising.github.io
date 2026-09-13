@@ -4,7 +4,6 @@ permalink: /about/
 author_profile: true
 ---
 
-# About
 
 I am an investor, board director, advisor, and scholar-practitioner focused on **durable competitive advantage, strategic capital allocation, and organizational decision-making under technological and institutional change**.
 
